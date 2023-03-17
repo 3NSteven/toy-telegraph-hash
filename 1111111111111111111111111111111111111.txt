@@ -1,0 +1,56 @@
+encodage:
+0 6 8 35 17 28 24 56 62 7 12 16 20 5 33 43 35 27 12 60 25 23 18 1 45 56 12 34 21 20 2 10 22 20 17 34 1 
+
+padding:
+0 6 8 35 17 28 24 56 62 7 12 16 20 5 33 43 35 27 12 60 25 23 18 1 45 56 12 34 21 20 2 10 22 20 17 34 1 32 0 0 0 0 0 0 0 0 0 0 0 0 
+50
+
+matrices:
+
+0 6 8 35 17 
+28 24 56 62 7 
+12 16 20 5 33 
+43 35 27 12 60 
+25 23 18 1 45 
+
+
+56 12 34 21 20 
+2 10 22 20 17 
+34 1 32 0 0 
+0 0 0 0 0 
+0 0 0 0 0 
+
+CALCUL EMPREINTE BLOC n.0
+empreinte etape 1:
+44 40 1 51 34 
+
+matrice etape 2:
+
+0 6 8 35 17 
+7 28 24 56 62 
+5 33 12 16 20 
+27 12 60 43 35 
+23 18 1 45 25 
+
+empreinte etape 3:
+42 9 42 54 1 
+
+CALCUL EMPREINTE BLOC n.1
+empreinte etape 1:
+6 32 2 31 38 
+
+matrice etape 2:
+
+56 12 34 21 20 
+17 2 10 22 20 
+0 0 34 1 32 
+0 0 0 0 0 
+0 0 0 0 0 
+
+empreinte etape 3:
+15 46 16 11 46 
+
+L'empreinte du message avec l'algorithme Toy-Hash-Telegraph^5v64 (travaillant sur des valeurs numérique modulo 64 et dont l'empreinte résultante est constituée de 5 valeurs) =
+
+[15][46][16][11][46]
+
